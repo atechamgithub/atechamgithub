@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atechamgithub&label=Profile%20views&color=0e75b6&style=flat" alt="atechamgithub" /> </p>
 
 - 📫 How to reach me **srivastavadarsh176@gmail.com**
-- adarsh-srivastav
+- a
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="https://www.linkedin.com/in/adarsh-srivastav-548913244/">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
