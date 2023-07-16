@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atechamgithub&label=Profile%20views&color=0e75b6&style=flat" alt="atechamgithub" /> </p>
 
 - 📫 How to reach me **srivastavadarsh176@gmail.com**
-- adarsh-srivastav-548913244/
+- adarsh-srivastav
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
