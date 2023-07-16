@@ -6,7 +6,7 @@
 - 📫 How to reach me **srivastavadarsh176@gmail.com**
 - 
 
-<h3 align="left"<ahttps://www.linkedin.com/in/adarsh-srivastav-548913244/>Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
